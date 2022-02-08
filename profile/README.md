@@ -1,4 +1,4 @@
-![Vortigo](./github cover.png)
+![Vortigo](https://user-images.githubusercontent.com/86121594/153008330-92f09c52-6467-4a66-9ff6-3ba78ca59063.png)
 
 # Vortigo
 
