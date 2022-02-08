@@ -4,4 +4,4 @@
 
 Apaixonados por tecnologia, design, produtos e, principalmente, pessoas.
 
-Consulte nossas vagas.
+[Consulte nossas vagas](https://vortigodigital.compleo.com.br/).
