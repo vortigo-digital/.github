@@ -1,4 +1,4 @@
-![Vortigo](https://user-images.githubusercontent.com/86121594/153008330-92f09c52-6467-4a66-9ff6-3ba78ca59063.png)
+![Vortigo](https://user-images.githubusercontent.com/86121594/153010120-7ee8ee7f-6cfd-4a25-a666-4dd41c0d4786.png)
 
 # Vortigo
 
